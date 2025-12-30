@@ -182,8 +182,11 @@ https://your-n8n-instance.com/webhook/your-path
 ### Интерфейс Telegram-бота
 
 ![UI:Telegram Screen_1](docs/images/telegram-screen_1.png)
+
 ![UI:Telegram Screen_2](docs/images/telegram-screen_2.png)
+
 ![UI:Telegram Screen_3](docs/images/telegram-screen_3.png)
+
 ![UI:Telegram Screen_4](docs/images/telegram-screen_4.png)
 
 ---
